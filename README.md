@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center" style="color:#9ca3af;">
-  Backend / Full-Stack Engineer • Java & Spring Boot
+  Backend / Full-Stack Engineer • Node.js • Express • Spring Boot
 </h3>
 
 <p align="center" style="color:#d1d5db;">
@@ -30,7 +30,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Backend+Engineer+with+Strong+DSA+Foundation;Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+MySQL;Clean+Architecture+%7C+Scalable+Systems;1000%2B+DSA+Problems+Solved" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full-Stack+Engineer+with+Strong+DSA+Foundation;Node.js+%7C+Express+%7C+Spring+Boot+%7C+REST+APIs;MongoDB+%7C+MySQL+%7C+Scalable+Systems;1000%2B+DSA+Problems+Solved" />
 </p>
 
 ---
@@ -51,12 +51,12 @@ I focus on building systems that are **maintainable, scalable, and readable**.
 
 ### 👨‍💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js&theme=dark" />
 </p>
 
 ### ⚙️ Backend & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,hibernate&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,hibernate&theme=dark" />
 </p>
 
 ### 🎨 Frontend
@@ -78,15 +78,25 @@ I focus on building systems that are **maintainable, scalable, and readable**.
 
 ## 🚩 Flagship Projects
 
-### 🏢 Employee Management System
-**Spring Boot • MySQL • HTML • CSS • JavaScript**
+### 📝 Task Management Application
+**Node.js • Express • MongoDB • JavaScript**
 
-- RESTful APIs with layered architecture  
-- Employee CRUD operations  
+- RESTful API architecture  
+- Task CRUD operations  
+- Backend validation & schema design  
+- MongoDB persistence  
+
+📌 *Primary MERN backend showcase*
+
+---
+
+### 🏢 Employee Management System
+**Spring Boot • PostgreSQL • HTML • CSS • JavaScript**
+
+- Layered architecture (Controller-Service-Repository)  
+- RESTful APIs  
 - JPA-based database persistence  
 - Responsive frontend  
-
-📌 *Primary backend showcase*
 
 ---
 
@@ -96,15 +106,6 @@ I focus on building systems that are **maintainable, scalable, and readable**.
 - Role-based authentication (Admin / Student)  
 - Secure REST APIs  
 - Automatic exam evaluation & result generation  
-
----
-
-### 📧 Spam Email Detection System
-**Python • TensorFlow • Scikit-learn**
-
-- Text preprocessing & feature extraction  
-- ML-based spam classification  
-- Visual analytics for insights  
 
 ---
 
