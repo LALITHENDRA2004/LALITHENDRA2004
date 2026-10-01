@@ -61,12 +61,12 @@ I focus on building systems that are **maintainable, scalable, and readable**.
 
 ### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" />
 </p>
 
 ### 🗄️ Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 </p>
 
 ### 🔧 Tools & Platforms
