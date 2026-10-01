@@ -127,18 +127,6 @@ Seeking **Backend / Full-Stack Developer** roles where I can:
 
 ---
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LALITHENDRA2004&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LALITHENDRA2004&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 <p align="center" style="color:#9ca3af;">
   <b>Engineering over hype • Systems over scripts</b>
 </p>
