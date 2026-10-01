@@ -124,9 +124,3 @@ Seeking **Backend / Full-Stack Developer** roles where I can:
 - Build real backend systems  
 - Work on scalable architectures  
 - Grow with strong engineering teams  
-
----
-
-<p align="center" style="color:#9ca3af;">
-  <b>Engineering over hype • Systems over scripts</b>
-</p>
